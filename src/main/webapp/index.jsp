@@ -170,7 +170,7 @@
         <p>Building Automation & Scalable Solutions for Modern Applications</p>
         <nav>
             <a href="#about">About</a>
-            <a href="#skills">Skills</a>
+            <a href="#Topics">Skills</a>
             <a href="#projects">Projects</a>
             <a href="#contact">Contact</a>
         </nav>
